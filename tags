@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APP_BASE_NAME	.\gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	.\gradlew.bat	/^for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi$/;"	v
+APP_HOME	.\gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CLASSPATH	.\gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+DEFAULT_JVM_OPTS	.\gradlew.bat	/^set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m"$/;"	v
+DIRNAME	.\gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	.\gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+ExampleMod	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    public ExampleMod()$/;"	m	class:ExampleMod
+ExampleMod	.\src\main\java\com\example\examplemod\ExampleMod.java	/^public class ExampleMod$/;"	c
+JAVA_EXE	.\gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	.\gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	.\gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+LOGGER	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    private static final Logger LOGGER = LogUtils.getLogger();$/;"	f	class:ExampleMod	file:
+RegistryEvents	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    public static class RegistryEvents$/;"	c	class:ExampleMod
+com.example.examplemod	.\src\main\java\com\example\examplemod\ExampleMod.java	/^package com.example.examplemod;$/;"	p
+end	.\gradlew.bat	/^:end$/;"	l
+enqueueIMC	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    private void enqueueIMC(final InterModEnqueueEvent event)$/;"	m	class:ExampleMod	file:
+execute	.\gradlew.bat	/^:execute$/;"	l
+fail	.\gradlew.bat	/^:fail$/;"	l
+findJavaFromJavaHome	.\gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+mainEnd	.\gradlew.bat	/^:mainEnd$/;"	l
+omega	.\gradlew.bat	/^:omega$/;"	l
+onBlocksRegistry	.\src\main\java\com\example\examplemod\ExampleMod.java	/^        public static void onBlocksRegistry(final RegistryEvent.Register<Block> blockRegistryEvent)$/;"	m	class:ExampleMod.RegistryEvents
+onServerStarting	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    public void onServerStarting(ServerStartingEvent event)$/;"	m	class:ExampleMod
+processIMC	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    private void processIMC(final InterModProcessEvent event)$/;"	m	class:ExampleMod	file:
+setup	.\src\main\java\com\example\examplemod\ExampleMod.java	/^    private void setup(final FMLCommonSetupEvent event)$/;"	m	class:ExampleMod	file:
